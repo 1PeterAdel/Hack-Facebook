@@ -7,3 +7,7 @@ Hack-Facebook with list-password
 **https://t.me/TermuxGoldKali **
 ##🔥 Bot»
 **https://t.me/Hack0Probot **
+
+***Install Tool🔥
+
+git clone https://github.com/1PeterAdel/Hack-Facebook
